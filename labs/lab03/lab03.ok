@@ -1,6 +1,6 @@
 {
   "name": "Lab 3",
-  "endpoint": "cal/dsep8/su18/lab03",
+  "endpoint": "cal/dsworkshop/su18/lab03",
   "src": [
     "lab03.ipynb"
   ],
